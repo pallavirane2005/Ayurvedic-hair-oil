@@ -101,7 +101,7 @@
 <body>
     <header>
         <div class="logo-text">
-            <img src="https://via.placeholder.com/60" alt="AyurvedaGlow Logo">
+            <img src="https://i.postimg.cc/5tVhLJMJ/IMG-20250404-WA0013.jpg" alt="AyurvedaGlow Logo">
             <span>AyurvedaGlow</span>
         </div>
     </header>
@@ -118,31 +118,24 @@
         <h2>Our Ayurvedic Hair Oil Collection</h2>
         <div class="product-grid">
             <div class="product-card">
-                <img src="https://images.unsplash.com/photo-1611080626912-4f5c4a8dc3a6" alt="AyurvedaGlow Nourishing Oil">
-                <h3>AyurvedaGlow Nourishing Oil</h3>
+                <img src="https://i.postimg.cc/Cxy2b7sV/IMG-20250404-WA0010.jpg" alt="AyurvedaGlow Nourishing Oil">
+                <h3>AyurvedaGlow Amla Nourishing Oil</h3>
                 <p>A blend of herbs for deep nourishment and healthy growth.</p>
                 <p>Price: ₹799</p>
                 <a href="#" class="buy-btn">Buy Now</a>
             </div>
             <div class="product-card">
-                <img src="https://images.unsplash.com/photo-1618850234910-7b42be6b9542" alt="AyurvedaGlow Anti-Dandruff Oil">
+                <img src="https://i.postimg.cc/jdypgB5j/IMG-20250404-WA0012.jpg" alt="AyurvedaGlow Anti-Dandruff Oil">
                 <h3>AyurvedaGlow Anti-Dandruff Oil</h3>
                 <p>Say goodbye to dandruff with this herbal formula.</p>
                 <p>Price: ₹899</p>
                 <a href="#" class="buy-btn">Buy Now</a>
             </div>
             <div class="product-card">
-                <img src="https://images.unsplash.com/photo-1620213478340-34d4a163d2f7" alt="AyurvedaGlow Revitalizing Oil">
+                <img src="https://i.postimg.cc/FKwGQsCX/IMG-20250404-WA0011.jpg" alt="AyurvedaGlow Revitalizing Oil">
                 <h3>AyurvedaGlow Revitalizing Oil</h3>
                 <p>Revitalize your scalp and hair with this rejuvenating blend.</p>
                 <p>Price: ₹999</p>
-                <a href="#" class="buy-btn">Buy Now</a>
-            </div>
-            <div class="product-card">
-                <img src="https://images.unsplash.com/photo-1605000790192-6901240fb96a" alt="AyurvedaGlow Strengthening Oil">
-                <h3>AyurvedaGlow Strengthening Oil</h3>
-                <p>Strengthen your hair roots with the power of ancient herbs.</p>
-                <p>Price: ₹1,099</p>
                 <a href="#" class="buy-btn">Buy Now</a>
             </div>
         </div>
