@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+!<DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -147,3 +148,52 @@
     </div>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AyurvedaGlow - Premium Ayurvedic Hair Oil</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+        
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #fff5e1;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #8fbc8f;
+            padding: 20px;
+            font-size: 35px;
+            color: #fff;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .logo-text {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        .logo-text img {
+            height: 60px;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #6fa76f;
+            padding: 15px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .container {
+            padding: 40px 20px;
